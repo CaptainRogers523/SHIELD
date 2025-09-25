@@ -1,21 +1,7 @@
 # S.H.I.E.L.D.
-  ____ _  _ _     _   _ _____ _____ _   _ _____  ___  ___  _   _ 
--------------------------------------------------------
- ********    **      **    **    ********    **          *******  
- **//////    /**     /**   /**   /**/////    /**         /**////** 
-/**          /**     /**   /**   /**         /**         /**    /**
-/*********   /**********   /**   /*******    /**         /**    /**
-////////**   /**//////**   /**   /**////     /**         /**    /**
-       /** **/**     /** **/** **/**       **/**       **/**    ** 
- ******** /**/**     /**/**/**/**/********/**/********/**/*******  
-////////  // //      // // // // //////// // //////// // ///////   
-                                                  
-                                                    @Captain Rogers         
-         Secure Hash Identifier & Log Defender
--------------------------------------------------------
-                                                     
-Secure Hash Identifier & Log Defender
+<img width="940" height="746" alt="Screenshot (551)" src="https://github.com/user-attachments/assets/fbf2bd49-38b5-474a-9166-8edee47ee805" />
 
+                                                    
 S.H.I.E.L.D. is a powerful command-line utility for scanning files and directories for potential malware and suspicious activity. It uses multiple analysis techniques to provide a comprehensive report, helping you identify disguised threats on your system.
 
 ## Key Features
@@ -88,5 +74,6 @@ Scan complete.
 ---
 
 ## Credits
+
 
 This tool was created by **Captain Rogers** (Vinayak Prajapati) as a project to demonstrate file analysis and security concepts.
